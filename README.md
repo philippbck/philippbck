@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 🖥️ Tech & Coding
+
 🤖 Automation & Data
+
+
 
 📍 Hamburg, Germany
 
