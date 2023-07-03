@@ -1,11 +1,6 @@
-### Hi there 👋
+### Hey there 👋
 
-🖥️ Tech & Coding
-
-🤖 Automation & Data
-
-
-
+🖥️ web, coding, infrastructure, automation
 📍 Hamburg, Germany
 
 <!--
